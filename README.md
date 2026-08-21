@@ -1,3 +1,20 @@
+# Bài nộp AI Evaluation Capstone
+
+| Trường | Thông tin |
+|---|---|
+| Mã học viên | 2A202601587 |
+| Họ và tên | Lê Hà Hải Vân |
+| Nhóm | Flaiiin |
+| Đóng góp cá nhân | Thiết kế dataset/rubric, chạy eval, chấm độc lập, calibration hoặc report — **chỉnh lại theo đóng góp thật** |
+| Verdict | **HOLD — quote_verbatim 11/24 (45.8%), complete calibration evidence (v1: 67%, v2: 88.9%, holdout: 83.3%)** |
+
+
+Report chính: [`deliverables/REPORT.md`](deliverables/REPORT.md). Data thô:
+[`deliverables/evidence/`](deliverables/evidence/). Nhật ký dùng AI:
+[`ai-support-log.md`](ai-support-log.md).
+
+---
+
 # K3 Track 1 · Day 20–21 — AI Evaluation (eval-kit)
 
 Repo làm bài capstone **AI Evaluation** của case **VLearn AI Tutor** — trợ giảng trả lời
